@@ -1,0 +1,14 @@
+C:\Users\Ambar Cuevas\Desktop\FirstPractice\FirstPractice\FirstPractice\bin\Debug\netstandard2.0\FirstPractice.deps.json
+C:\Users\Ambar Cuevas\Desktop\FirstPractice\FirstPractice\FirstPractice\bin\Debug\netstandard2.0\FirstPractice.dll
+C:\Users\Ambar Cuevas\Desktop\FirstPractice\FirstPractice\FirstPractice\bin\Debug\netstandard2.0\ref\FirstPractice.dll
+C:\Users\Ambar Cuevas\Desktop\FirstPractice\FirstPractice\FirstPractice\bin\Debug\netstandard2.0\FirstPractice.pdb
+C:\Users\Ambar Cuevas\Desktop\FirstPractice\FirstPractice\FirstPractice\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ambar Cuevas\Desktop\FirstPractice\FirstPractice\FirstPractice\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\Ambar Cuevas\Desktop\FirstPractice\FirstPractice\FirstPractice\obj\Debug\netstandard2.0\FirstPractice.AssemblyInfoInputs.cache
+C:\Users\Ambar Cuevas\Desktop\FirstPractice\FirstPractice\FirstPractice\obj\Debug\netstandard2.0\FirstPractice.AssemblyInfo.cs
+C:\Users\Ambar Cuevas\Desktop\FirstPractice\FirstPractice\FirstPractice\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ambar Cuevas\Desktop\FirstPractice\FirstPractice\FirstPractice\obj\Debug\netstandard2.0\FirstPractice.dll
+C:\Users\Ambar Cuevas\Desktop\FirstPractice\FirstPractice\FirstPractice\obj\Debug\netstandard2.0\ref\FirstPractice.dll
+C:\Users\Ambar Cuevas\Desktop\FirstPractice\FirstPractice\FirstPractice\obj\Debug\netstandard2.0\FirstPractice.pdb
+C:\Users\Ambar Cuevas\Desktop\FirstPractice\FirstPractice\FirstPractice\obj\Debug\netstandard2.0\FirstPractice.csprojAssemblyReference.cache
+C:\Users\Ambar Cuevas\Desktop\FirstPractice\FirstPractice\FirstPractice\obj\Debug\netstandard2.0\SignUpPage.xaml.g.cs
